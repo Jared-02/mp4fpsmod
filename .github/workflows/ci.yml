@@ -22,4 +22,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: mp4fpsmod_win_x64
-          path: vcproj/x64/Release/mp4fpsmod
+          path: vcproj/x64/Release
